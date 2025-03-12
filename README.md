@@ -37,12 +37,9 @@ go run main.go
 
 ## 📚 Conteúdo
 Abaixo estão alguns dos exemplos e projetos que estão (ou estarão) neste repositório:
-
 - ✅ **Gerador de Senhas Aleatórias** 🔐
-- 🔄 **Manipulação de Arquivos** 📂
 - 🌐 **API REST Simples** (usando Gin)
-- 🏗 **Concorrência com Goroutines**
-- ⌨️ **Criando um CLI simples**
+
 
 ## 🤝 Contribuição
 Este repositório é focado no meu aprendizado, mas se quiser sugerir melhorias ou novas ideias, fique à vontade para abrir uma **issue** ou enviar um **pull request**. 😉
